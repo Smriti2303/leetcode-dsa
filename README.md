@@ -25,4 +25,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Smriti2303/leetcode-dsa/tree/master/1834-minimum-number-of-people-to-teach) |
+## String
+|  |
+| ------- |
+| [2887-sort-vowels-in-a-string](https://github.com/Smriti2303/leetcode-dsa/tree/master/2887-sort-vowels-in-a-string) |
+## Sorting
+|  |
+| ------- |
+| [2887-sort-vowels-in-a-string](https://github.com/Smriti2303/leetcode-dsa/tree/master/2887-sort-vowels-in-a-string) |
 <!---LeetCode Topics End-->
